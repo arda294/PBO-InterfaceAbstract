@@ -1,2 +1,2 @@
-# PBO-InterfaceAbstract
-This repo is part of PBO class on Interfaces and Abstract Classes
+# Interfaces and Abstract Classes Excercise
+Ketut Arda Putra Mahotama Sadha (5025211235)
